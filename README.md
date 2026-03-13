@@ -8,7 +8,7 @@ Perfil profesional en Diseño y Modelado 3D
 <tr>
 <td width="150">
 
-<img src="img/TuFoto.jpg" width="140" alt="Perfil">
+<img src="img/Perfil" width="140" alt="Perfil">
 
 </td>
 <td>
@@ -39,7 +39,7 @@ Perfil profesional en Diseño y Modelado 3D
 </p>
 
 <p align="center">
-<img src="img/BannerMorado.png" width="100%" alt="Banner">
+<img src="img/banner.png" width="100%" alt="Banner">
 </p>
 
 <a id="sobre-mi"></a>
