@@ -119,6 +119,20 @@ Roblox Studio
 <a id="experiencia"></a>
 # 💼 Experiencia laboral
 
+<p align="center">
+<img src="img/Final Clash.png" width="100%" alt="Clash">
+</p>
+
+<p align="center">
+<img src="img/Siren.png" width="100%" alt="Siren">
+</p>
+<p align="center">
+<img src="img/The Watchman of Doom.png" width="100%" alt="WoD">
+</p>
+<p align="center">
+<img src="img/JadeTV.png" width="100%" alt="TV">
+</p>
+
 ## 🎮 Toilet Legacy Defense  
 **Modelador 3D** | Agosto 2024 - Febrero 2025  
 
