@@ -8,7 +8,7 @@ Perfil profesional en Diseño y Modelado 3D
 <tr>
 <td width="150">
 
-<img src="img/Perfil" width="140" alt="Perfil">
+<img src="img/perfil.jpeg" width="140" alt="Perfil">
 
 </td>
 <td>
