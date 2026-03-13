@@ -70,7 +70,7 @@ Blender
 </td>
 
 <td>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ibis_Paint_X_Logo.png" width="48"><br>
+<img src="Bibis.webp" width="48"><br>
 Ibis Paint
 </td>
 
